@@ -12,7 +12,7 @@ To get started, install dependencies:
 npm install
 ```
 
-...then run the server:
+Then, run the server:
 
 ```sh
 npm start
