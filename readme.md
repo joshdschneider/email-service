@@ -6,7 +6,7 @@ This is a transactional email service in a node web server. Features include:
 - Tracking opens & clicks with Webhooks
 - Managing template versions (create, rollback, etc)
 
-<img width="125" height="125" src="https://drive.google.com/file/d/1BvYcXgoSzcAmQo0aeSKfpCfxNowdj30e" alt="Database">
+<img width="100%" height="auto" src="https://lh3.googleusercontent.com/2rKg2EmRVqvGh2iRaNhwuctAXzrs_cIEhq6SYbGH_2o3_tJQ4rkw1vKqPbR_jZThW7o=w2400" alt="Database">
 
 To get started, install dependencies:
 
