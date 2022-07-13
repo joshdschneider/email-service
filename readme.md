@@ -6,15 +6,13 @@ This is a transactional email service in a node web server. Features include:
 - Tracking opens & clicks with Webhooks
 - Managing template versions (create, rollback, etc)
  
-## Get Started
-
-Install dependencies:
+To get started, install dependencies:
 
 ```sh
 npm install
 ```
 
-Run the server:
+...then run the server:
 
 ```sh
 npm start
