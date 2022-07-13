@@ -7,7 +7,7 @@ This is a transactional email service in a node web server. Features include:
 - Managing template versions (create, rollback, etc)
 
 <br/>
-<img width="600px" height="auto" src="https://lh3.googleusercontent.com/2rKg2EmRVqvGh2iRaNhwuctAXzrs_cIEhq6SYbGH_2o3_tJQ4rkw1vKqPbR_jZThW7o=w2400" alt="Database" style="border-radius:20px">
+<img width="650px" height="auto" src="https://lh3.googleusercontent.com/2rKg2EmRVqvGh2iRaNhwuctAXzrs_cIEhq6SYbGH_2o3_tJQ4rkw1vKqPbR_jZThW7o=w2400" alt="Database" style="border-radius:20px;">
 <br/>
 
 To get started, install dependencies:
