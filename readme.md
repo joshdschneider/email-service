@@ -1,4 +1,4 @@
-# Transactional Email Service
+## Transactional Email Service
 
 This is a transactional email service in a node web server. Features include:
 
@@ -7,8 +7,7 @@ This is a transactional email service in a node web server. Features include:
 - Managing template versions (create, rollback, etc)
 
 <br />
-<br />
-
+ 
 ## Get Started
 
 Install dependencies:
